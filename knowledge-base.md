@@ -17,6 +17,6 @@ permalink: /knowledge-base/
 * [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 
 
-# Peronal
+# Personal
 
 * [Khipu 2019 notes](https://github.com/jbarsce/Khipu2019Notes/blob/master/notes.pdf)
