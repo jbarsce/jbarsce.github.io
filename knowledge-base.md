@@ -15,3 +15,8 @@ permalink: /knowledge-base/
 * [How to do good research, get it published](http://www.cs.ucr.edu/~eamonn/public/SDM_How_to_do_Research_Keogh.pdf)
 
 * [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+
+
+# Peronal
+
+* [Khipu 2019 notes](https://github.com/jbarsce/Khipu2019Notes/blob/master/notes.pdf)
