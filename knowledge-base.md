@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Personal collection of learning references"
-permalink: /knowledge-base/
+title: "Personal collection of computer science and random links"
+permalink: /link-collection/
 ---
 
 # Math
@@ -16,7 +16,19 @@ permalink: /knowledge-base/
 
 * [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 
+* [A survival guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
 
-# Personal
+# Good blogs
+
+* [Andrej Karpathy's blog](https://karpathy.github.io/), also [in medium](https://medium.com/@karpathy).
+* [Veronika Ch's blog](https://veronikach.com/blog/)
+
+
+# Youtube channels
+
+* [Two Minute Papers]()
+* [Henry AI Labs]()
+
+# Personal notes
 
 * [Khipu 2019 notes](https://github.com/jbarsce/Khipu2019Notes/blob/master/notes.pdf)
