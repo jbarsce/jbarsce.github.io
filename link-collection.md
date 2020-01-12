@@ -29,6 +29,11 @@ This is a personal collection of links I use or want to keep as a reference for 
 * [Khipu - Latin American Meeting In Artificial Intelligence](https://khipu.ai/).
 * [PyCon Argentina](http://pycon.python.org.ar/).
 
+## Courses
+
+* [Andrew Ng course at Coursera](https://www.coursera.org/learn/machine-learning)
+* [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+
 ## Reinforcement learning
 
 * [Reddit Reinforcement Learning](https://old.reddit.com/r/reinforcementlearning)
@@ -48,6 +53,10 @@ This is a personal collection of links I use or want to keep as a reference for 
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+## Courses
+
+* [John Tsitsiklis course of Probabilistic Systems Analysis and Applied Probability, at MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 
 # PhD
 
@@ -75,8 +84,9 @@ This is a personal collection of links I use or want to keep as a reference for 
 
 # Youtube channels
 
-* [Two Minute Papers]()
-* [Henry AI Labs]()
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos)
+* [Machine Learning and AI Academy](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/)
 
 # Personal notes
 
