@@ -1,10 +1,45 @@
 ---
 layout: default
-title: "Personal collection of computer science and random links"
-permalink: /knowledge-base/
+title: "Personal collection of computer science, machine learning and random links"
+permalink: /link-collection/
 ---
 
 This is a personal collection of links I use or want to keep as a reference for learning or refreshing concepts/fundamentals, of good lectures, potential teaching material or some random links I liked.
+
+# AI / Machine learning
+
+## General
+
+* [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
+
+* [Reddit Machine Learning](https://old.reddit.com/r/machinelearning)
+
+## Conferences
+
+* [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP).
+
+* [Argentinean Symposium on Artificial Intelligence (ASAI) at Jornadas Argentinas de Informática (JAIIO)](http://www.sadio.org.ar/jaiio/).
+
+* [Workshop de Agentes y Sistemas Inteligentes at Congreso Argentino de Ciencias de la Computación (CACIC)](https://cacic2019.exa.unrc.edu.ar/).
+
+## Meetings/workshops in Argentina/Latin America
+
+* [PyData Cordoba](https://pydata.org/cordoba2019/).
+* [Escuela de Ciencias Informáticas (DC, UBA, Argentina)](https://eci2020.dc.uba.ar/)
+* [Khipu - Latin American Meeting In Artificial Intelligence](https://khipu.ai/).
+* [PyCon Argentina](http://pycon.python.org.ar/).
+
+## Reinforcement learning
+
+* [Reddit Reinforcement Learning](https://old.reddit.com/r/reinforcementlearning)
+
+### Courses
+
+* [David Silver course at UCL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Sergey Levine course at Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/)
+* [Emma Brunskill course at Stanford](http://web.stanford.edu/class/cs234/index.html)
+* [Deep RL Bootcamp at Google](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
 
 # Math
 
@@ -32,6 +67,7 @@ This is a personal collection of links I use or want to keep as a reference for 
 * [Veronika Cheplygina's blog](https://veronikach.com/blog/)
 
 
+
 # Programming
 
 * Learn programming: [Mumuki](https://mumuki.io/home/)
@@ -45,3 +81,4 @@ This is a personal collection of links I use or want to keep as a reference for 
 # Personal notes
 
 * [Khipu 2019 notes](https://github.com/jbarsce/Khipu2019Notes/blob/master/notes.pdf)
+* [Study notes](https://github.com/jbarsce/StudyNotes/blob/master/study_notes.pdf)
