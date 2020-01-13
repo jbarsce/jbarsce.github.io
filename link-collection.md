@@ -34,6 +34,10 @@ This is a personal collection of links I use or want to keep as a reference for 
 * [Andrew Ng course at Coursera](https://www.coursera.org/learn/machine-learning)
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 
+## Datasets
+
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
 ## Reinforcement learning
 
 * [Reddit Reinforcement Learning](https://old.reddit.com/r/reinforcementlearning)
