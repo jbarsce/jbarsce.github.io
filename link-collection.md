@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Personal collection of computer science, machine learning and random links"
 permalink: /link-collection/
 ---
@@ -13,6 +13,8 @@ This is a personal collection of links I use or want to keep as a reference for 
 * [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
 
 * [Reddit Machine Learning](https://old.reddit.com/r/machinelearning)
+
+* [MIT Deep Learning Lectures: Introduction, Tutorials, Videos, and Course Materials](https://deeplearning.mit.edu/)
 
 ## Conferences
 
