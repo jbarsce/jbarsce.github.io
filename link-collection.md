@@ -40,6 +40,10 @@ This is a personal collection of links I use or want to keep as a reference for 
 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
+## Other resources
+
+* [Podcast: Talking Machines](https://open.spotify.com/show/0gKf364z7Vri0wbNXsHd2B?si=NtLJ3SkYRxWYVffxCCbliw)
+
 ## Reinforcement learning
 
 * [Reddit Reinforcement Learning](https://old.reddit.com/r/reinforcementlearning)
@@ -51,6 +55,9 @@ This is a personal collection of links I use or want to keep as a reference for 
 * [Emma Brunskill course at Stanford](http://web.stanford.edu/class/cs234/index.html)
 * [Deep RL Bootcamp at Google](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
+### Other resources
+
+* [Podcast: TalkRL: Reinforcement learning interviews](https://open.spotify.com/show/0EScvEYy1btiFTal8Nt0gk?si=LjC_30qjSXqLmkaj4y7ZnQ)
 
 # Math
 
