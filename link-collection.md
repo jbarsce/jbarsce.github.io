@@ -8,9 +8,7 @@ This is a personal collection of links I use or want to keep as a reference for 
 
 # AI / Machine learning
 
-## General
-
-* [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
+General links:
 
 * [Reddit Machine Learning](https://old.reddit.com/r/machinelearning)
 
@@ -42,12 +40,6 @@ This is a personal collection of links I use or want to keep as a reference for 
 
 * [CVPR](http://cvpr2020.thecvf.com/)
 
-## Meetings/workshops in Argentina/Latin America
-
-* [PyData Cordoba](https://pydata.org/cordoba2019/).
-* [Escuela de Ciencias Informáticas (DC, UBA, Argentina)](https://eci2020.dc.uba.ar/)
-* [Khipu - Latin American Meeting In Artificial Intelligence](https://khipu.ai/).
-* [PyCon Argentina](http://pycon.python.org.ar/).
 
 ## Courses
 
@@ -58,9 +50,22 @@ This is a personal collection of links I use or want to keep as a reference for 
 
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
-## Other resources
+## Development
 
-* [Podcast: Talking Machines](https://open.spotify.com/show/0gKf364z7Vri0wbNXsHd2B?si=NtLJ3SkYRxWYVffxCCbliw)
+* [What is the Team Data Science Process?](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/overview)
+
+## Good readings
+
+* [How I Fail S01E21: Ian Goodfellow (PhD’14, Computer Science)](http://veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/)
+* [My Machine Learning Research Jobhunt](https://generalizederror.github.io/My-Machine-Learning-Research-Jobhunt/)
+
+## Meetings/workshops in Argentina/Latin America
+
+* [PyData Cordoba](https://pydata.org/cordoba2019/).
+* [Escuela de Ciencias Informáticas (DC, UBA, Argentina)](https://eci2020.dc.uba.ar/)
+* [Khipu - Latin American Meeting In Artificial Intelligence](https://khipu.ai/).
+* [PyCon Argentina](http://pycon.python.org.ar/).
+
 
 ## Reinforcement learning
 
@@ -77,7 +82,26 @@ This is a personal collection of links I use or want to keep as a reference for 
 
 * [Podcast: TalkRL: Reinforcement learning interviews](https://open.spotify.com/show/0EScvEYy1btiFTal8Nt0gk?si=LjC_30qjSXqLmkaj4y7ZnQ)
 
-# Math
+# Cool blogs
+
+* [El Gato y la Caja](https://elgatoylacaja.com.ar/)
+* [Andrej Karpathy's blog](https://karpathy.github.io/), also [in medium](https://medium.com/@karpathy).
+* [Veronika Cheplygina's blog](https://veronikach.com/blog/)
+* [arg min_{blog}](http://www.argmin.net/)
+
+
+## Courses
+
+* [John Tsitsiklis course of Probabilistic Systems Analysis and Applied Probability, at MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+
+
+# Learning
+
+General:
+
+* [Khan Academy](https://www.khanacademy.org/)
+
+## Math
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 
@@ -85,9 +109,23 @@ This is a personal collection of links I use or want to keep as a reference for 
 
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
-## Courses
+## Programming
 
-* [John Tsitsiklis course of Probabilistic Systems Analysis and Applied Probability, at MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+* Learn programming: [Mumuki](https://mumuki.io/home/)
+* Practice for programming interviews: [Hackerrank](https://www.hackerrank.com/), [Leetcode](https://leetcode.com/).
+
+
+## Youtube channels / podcasts
+
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos)
+* [Machine Learning and AI Academy](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/)
+* [Podcast: Talking Machines](https://open.spotify.com/show/0gKf364z7Vri0wbNXsHd2B?si=NtLJ3SkYRxWYVffxCCbliw)
+
+# Personal notes
+
+* [Khipu 2019 notes](https://github.com/jbarsce/Khipu2019Notes/blob/master/notes.pdf)
+* [Study notes](https://github.com/jbarsce/StudyNotes/blob/master/study_notes.pdf)
 
 # PhD
 
@@ -100,26 +138,3 @@ This is a personal collection of links I use or want to keep as a reference for 
 * [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) and [HOWTO: Get tenure](http://matt.might.net/articles/tenure/)
 
 * [How to effectively deal with Imposter Syndrome](https://academia.stackexchange.com/questions/11765/ive-somehow-convinced-everyone-that-im-actually-good-at-this-how-to-effect)
-
-# Good blogs
-
-* [Andrej Karpathy's blog](https://karpathy.github.io/), also [in medium](https://medium.com/@karpathy).
-* [Veronika Cheplygina's blog](https://veronikach.com/blog/)
-
-
-
-# Programming
-
-* Learn programming: [Mumuki](https://mumuki.io/home/)
-* Practice for programming interviews: [Hackerrank](https://www.hackerrank.com/), [Leetcode](https://leetcode.com/).
-
-# Youtube channels
-
-* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
-* [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos)
-* [Machine Learning and AI Academy](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/)
-
-# Personal notes
-
-* [Khipu 2019 notes](https://github.com/jbarsce/Khipu2019Notes/blob/master/notes.pdf)
-* [Study notes](https://github.com/jbarsce/StudyNotes/blob/master/study_notes.pdf)
