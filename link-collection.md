@@ -18,11 +18,29 @@ This is a personal collection of links I use or want to keep as a reference for 
 
 ## Conferences
 
-* [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP).
+### In Argentina
 
 * [Argentinean Symposium on Artificial Intelligence (ASAI) at Jornadas Argentinas de Informática (JAIIO)](http://www.sadio.org.ar/jaiio/).
 
 * [Workshop de Agentes y Sistemas Inteligentes at Congreso Argentino de Ciencias de la Computación (CACIC)](https://cacic2019.exa.unrc.edu.ar/).
+
+### International
+
+* [AI Conference Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP).
+
+* [NeurIPS](https://neurips.cc/Conferences/2020)
+
+* [ICML](https://icml.cc/Conferences/2020)
+
+* [ICLR](https://iclr.cc/)
+
+* [IJCAI](https://www.ijcai20.org/)
+
+* [AAAI](https://aaai.org/Conferences/AAAI-20/)
+
+* [AISTATS](https://www.aistats.org/)
+
+* [CVPR](http://cvpr2020.thecvf.com/)
 
 ## Meetings/workshops in Argentina/Latin America
 
