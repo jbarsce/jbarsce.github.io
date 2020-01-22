@@ -82,6 +82,11 @@ General links:
 
 * [Podcast: TalkRL: Reinforcement learning interviews](https://open.spotify.com/show/0EScvEYy1btiFTal8Nt0gk?si=LjC_30qjSXqLmkaj4y7ZnQ)
 
+
+## Internships / Residency
+
+* [List of AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency)
+
 # Cool blogs
 
 * [El Gato y la Caja](https://elgatoylacaja.com.ar/)
