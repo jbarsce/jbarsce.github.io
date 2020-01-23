@@ -12,7 +12,7 @@ General links:
 
 * [Reddit Machine Learning](https://old.reddit.com/r/machinelearning)
 
-* [MIT Deep Learning Lectures: Introduction, Tutorials, Videos, and Course Materials](https://deeplearning.mit.edu/)
+* [MIT Deep Learning Lectures: Introduction, Tutorials, Videos, and Course Materials](https://deeplearning.mit.edu/). Also: [Deep Learning State of the Art (2020)](https://lexfridman.com/files/slides/2020_01_06_deep_learning_state_of_the_art.pdf)
 
 ## Conferences
 
@@ -79,6 +79,8 @@ General links:
 * [Deep RL Bootcamp at Google](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ### Other resources
+
+* [Awesome Deep RL: A curated list of awesome Deep RL Resources](https://github.com/kengz/awesome-deep-rl)
 
 * [Podcast: TalkRL: Reinforcement learning interviews](https://open.spotify.com/show/0EScvEYy1btiFTal8Nt0gk?si=LjC_30qjSXqLmkaj4y7ZnQ)
 
