@@ -8,7 +8,7 @@ This is a personal collection of links I use or want to keep as a reference for 
 
 # Contents
 
-* [AI / Machine learning](#ai-/-machine-learning)
+* [AI / Machine learning](#ai--machine-learning)
 * [Cool blogs](#cool-blogs)
 * [Learning](#learning)
 * [Personal notes](#personal-notes)
