@@ -6,6 +6,15 @@ permalink: /link-collection/
 
 This is a personal collection of links I use or want to keep as a reference for learning or refreshing concepts/fundamentals, of good lectures, potential teaching material or some random links I liked.
 
+# Contents
+
+* [AI / Machine learning](#ai-/-machine-learning)
+* [Cool blogs](#cool-blogs)
+* [Learning](#learning)
+* [Personal notes](#personal-notes)
+* [PhD](#phd)
+
+
 # AI / Machine learning
 
 General links:
