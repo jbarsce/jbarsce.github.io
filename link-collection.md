@@ -67,7 +67,7 @@ General links:
 * [How I Fail S01E21: Ian Goodfellow (PhD’14, Computer Science)](http://veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/)
 * [My Machine Learning Research Jobhunt](https://generalizederror.github.io/My-Machine-Learning-Research-Jobhunt/)
 
-## PhD 
+## PhD
 
 * [How to do good research, get it published](http://www.cs.ucr.edu/~eamonn/public/SDM_How_to_do_Research_Keogh.pdf)
 
@@ -149,6 +149,7 @@ General:
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos)
 * [Machine Learning and AI Academy](https://www.youtube.com/channel/UC4lM4hz_v5ixNjK54UwPEVw/)
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [Podcast: Talking Machines](https://open.spotify.com/show/0gKf364z7Vri0wbNXsHd2B?si=NtLJ3SkYRxWYVffxCCbliw)
 
 # Personal notes
