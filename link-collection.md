@@ -12,7 +12,6 @@ This is a personal collection of links I use or want to keep as a reference for 
 * [Cool blogs](#cool-blogs)
 * [Learning](#learning)
 * [Personal notes](#personal-notes)
-* [PhD](#phd)
 
 
 # AI / Machine learning
@@ -67,6 +66,20 @@ General links:
 
 * [How I Fail S01E21: Ian Goodfellow (PhD’14, Computer Science)](http://veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/)
 * [My Machine Learning Research Jobhunt](https://generalizederror.github.io/My-Machine-Learning-Research-Jobhunt/)
+
+## PhD 
+
+* [How to do good research, get it published](http://www.cs.ucr.edu/~eamonn/public/SDM_How_to_do_Research_Keogh.pdf)
+
+* [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+
+* [A survival guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
+
+* [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) and [HOWTO: Get tenure](http://matt.might.net/articles/tenure/)
+
+* [How to effectively deal with Imposter Syndrome](https://academia.stackexchange.com/questions/11765/ive-somehow-convinced-everyone-that-im-actually-good-at-this-how-to-effect)
+
+* [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 
 ## Meetings/workshops in Argentina/Latin America
 
@@ -142,15 +155,3 @@ General:
 
 * [Khipu 2019 notes](https://github.com/jbarsce/Khipu2019Notes/blob/master/notes.pdf)
 * [Study notes](https://github.com/jbarsce/StudyNotes/blob/master/study_notes.pdf)
-
-# PhD
-
-* [How to do good research, get it published](http://www.cs.ucr.edu/~eamonn/public/SDM_How_to_do_Research_Keogh.pdf)
-
-* [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-
-* [A survival guide to a PhD](https://karpathy.github.io/2016/09/07/phd/)
-
-* [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/) and [HOWTO: Get tenure](http://matt.might.net/articles/tenure/)
-
-* [How to effectively deal with Imposter Syndrome](https://academia.stackexchange.com/questions/11765/ive-somehow-convinced-everyone-that-im-actually-good-at-this-how-to-effect)
