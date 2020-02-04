@@ -142,6 +142,7 @@ General:
 
 * Learn programming: [Mumuki](https://mumuki.io/home/)
 * Practice for programming interviews: [Hackerrank](https://www.hackerrank.com/), [Leetcode](https://leetcode.com/).
+* Learn git, debug, shell, security, vim (among others): [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 
 ## Youtube channels / podcasts
