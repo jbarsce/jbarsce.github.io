@@ -11,7 +11,7 @@ nav_order: 10
 
 ### Books
 
-* [Artificial Intelligence: A Modern Approach (1995, 4ta edición publicada en 2020)](http://aima.cs.berkeley.edu/), by S. Russell y P. Norvig.
+* [Artificial Intelligence: A Modern Approach (1995, 4th edition published in 2020)](http://aima.cs.berkeley.edu/), by S. Russell y P. Norvig.
 * [Machine Learning (1997)](https://www.cs.cmu.edu/~tom/mlbook.html), by T. Mitchell.
 * [Information Theory, Inference, and Learning Algorithms (2003)](http://www.inference.org.uk/mackay/itila/book.html) by D. MacKay. Classic book that approaches ML with a strong information theory focus.
 * [Pattern Recognition and Machine Learning (2006)](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/), by C. Bishop.
@@ -25,9 +25,10 @@ nav_order: 10
 
 ### Webs
 
-* [J. Alammar's visualization and blog](https://jalammar.github.io/).
+* [J. Alammar's blog](https://jalammar.github.io/).
 * [Distilled AI](https://aman.ai/primers/ai/). Excellent resource with summaries of various AI topics.
 * [2023 Kaggle AI Report](https://www.kaggle.com/competitions/2023-kaggle-ai-report).
+* [Stanford's AI Index](https://aiindex.stanford.edu/).
 
 ### Communities
 
@@ -43,22 +44,24 @@ nav_order: 10
 * [CS231n: Convolutional Neural Networks for Visual Recognition (Stanford)](http://cs231n.stanford.edu/), and its [GitHub repo](https://cs231n.github.io).
 * [Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html).
 
-### Material for hands-on practice
+### General ML learning resources
 
 Here are some repos for learning by coding.
 
 * [Made with ML](https://madewithml.com/).
-
-* [scikit-learn course](https://inria.github.io/scikit-learn-mooc/). 
+* [scikit-learn course](https://inria.github.io/scikit-learn-mooc/).
 FOSS course on ML with scikit-learn, with its repo [here](https://github.com/INRIA/scikit-learn-mooc).
-
 * [HuggingFace courses](https://huggingface.co/learn).
-
+* [Fast AI](https://fast.ai) and [its book](https://github.com/fastai/fastbook).
 * [Learn Python, Data Viz, Pandas & More (Kaggle)](https://www.kaggle.com/learn). Good practical material from Kaggle to learn data science concepts. Includes Python, ML, its ethical considerations, SQL, and advanced techniques such as computer vision and explainability.
-
 * [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) and [Machine Learning for Beginners (Repo)](https://github.com/microsoft/ML-For-Beginners), [Web](https://microsoft.github.io/ML-For-Beginners) two excellent courses from Microsoft to learn data science and ML, respectively. Both are available in English and Spanish. The repos include all the material, including the slides, exercises, and solutions.
-
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) by C. Davidson-Pilon. Good book to learn Bayesian inference from a "computational/understanding-first, and mathematics-second, point of view" (sic), with implementations in [PyMC](https://github.com/pymc-devs/pymc).
+* [A. Karpathy's Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html).
+* [Statquest!!! - An epic journey through statistics and machine learning](https://statquest.org/).
+* [Lena Voita's blog](https://lena-voita.github.io/), with great material such as an [NLP course](https://lena-voita.github.io/nlp_course.html).
+* [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course) and [Tensorflow's Learn ML Paths](https://www.tensorflow.org/resources/learn-ml).
+* [bnomial's daily ML questions](https://today.bnomial.com/).
+* [Analytics Vidhya](https://www.analyticsvidhya.com/).
 
 ### Learning python
 
@@ -70,16 +73,16 @@ FOSS course on ML with scikit-learn, with its repo [here](https://github.com/INR
 
 #### Meetings
 
-* [PyData Córdoba (link to the latest edition)](https://pydata.org/cordoba2019/).
-* [Khipu - Latin American Meeting In Artificial Intelligence](https://khipu.ai).
-* [Escuela de Ciencias Informáticas (Universidad de Buenos Aires)](https://eci.dc.uba.ar/).
-* [Escuela de Verano de Ciencias Informáticas (Universidad de Río Cuarto)](https://www.exa.unrc.edu.ar/escuela-de-verano-de-ciencias-informaticas/).
-* [Reunión Internacional de Inteligencia Artificial (RIIA)](https://www.riiaa.org/).
+* [PyData Córdoba (link to the latest edition)](https://pydata.org/cordoba2019/) 🇦🇷.
+* [Khipu - Latin American Meeting In Artificial Intelligence](https://khipu.ai) 🇦🇷.
+* [Escuela de Ciencias Informáticas (Universidad de Buenos Aires)](https://eci.dc.uba.ar/) 🇦🇷.
+* [Escuela de Verano de Ciencias Informáticas (Universidad de Río Cuarto)](https://www.exa.unrc.edu.ar/escuela-de-verano-de-ciencias-informaticas/) 🇦🇷.
+* [Reunión Internacional de Inteligencia Artificial (RIIA)](https://www.riiaa.org/) 🇲🇽.
 
 #### Local communities
 
-* [DataAr Community](dataarcommunity.slack.com).
-* [Python Argentina](https://www.python.org.ar/).
+* [DataAr Community](dataarcommunity.slack.com) 🇦🇷.
+* [Python Argentina](https://www.python.org.ar/) 🇦🇷.
 * [SysArmy](https://sysarmy.com/es/).
 
 ### International conferences
@@ -93,9 +96,40 @@ FOSS course on ML with scikit-learn, with its repo [here](https://github.com/INR
 * [Empirical Methods in Natural Language Processing](https://2021.emnlp.org/).
 * [Extra: Tiempo restante para las próximas conferencias](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM).
 
-### Reinforcement learning
+## Computer science in general
 
-#### General
+### Local academic congresses
+
+* [Jornadas Argentinas de Informática](https://www.sadio.org.ar/jaiio/) 🇦🇷.
+* [Congreso Argentino de Ciencias de la Computación](https://cacic2021.unsa.edu.ar/) 🇦🇷.
+* [Conferencia Latinoamericana de Informática](https://clei2021.cr/home) (LatAm).
+
+### Leveling-up your coding skills
+
+* [HackerRank](https://www.hackerrank.com).
+* [LeetCode](https://leetcode.com/).
+* [Codewars](https://www.codewars.com).
+* [CodeChef](https://www.codechef.com/).
+
+### Job Preparation
+
+* [Tech Interview Handbook](https://www.techinterviewhandbook.org/).
+* [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650).
+* [Ace Your Python Coding Interview](https://realpython.com/learning-paths/python-interview/)
+* [Ace the SQL & Data Science Interview](https://datalemur.com/).
+
+### General programming resources
+
+* [The Odin Project](https://www.theodinproject.com/).
+* [freeCodeCamp](https://www.freecodecamp.org/).
+* [GeeksforGeeks](https://www.geeksforgeeks.org/).
+* [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/). Course that explores tools and techniques that are extremely useful such as debugging, use of the terminal and Git, as a complement to curricula of Computer Science careers.
+* [Developer Roadmaps](https://roadmap.sh/).
+* [Learn X in Y minutes](https://learnxinyminutes.com/).
+* Miguel Grinberg's [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
+* [StaffEng Blog](https://staffeng.com/).
+
+### Reinforcement learning
 
 * [RL discord](https://discord.gg/dBVVY8Sz7v) and its [wiki](https://github.com/andyljones/reinforcement-learning-discord-wiki/wiki)!
 * [HuggingFace discord](http://hf.co/join/discord), with an specific channel for the RL course.
@@ -104,36 +138,6 @@ FOSS course on ML with scikit-learn, with its repo [here](https://github.com/INR
 * [Awesome RL envs](https://github.com/clvrai/awesome-rl-envs).
 * [Awesome deep RL](https://github.com/kengz/awesome-deep-rl).
 * [Main RL book, by Sutton y Barto](http://incompleteideas.net/book/RLbook2020.pdf).
-
-## Computer science
-
-### Local academic congresses
-
-* [Jornadas Argentinas de Informática](https://www.sadio.org.ar/jaiio/).
-* [Congreso Argentino de Ciencias de la Computación](https://cacic2021.unsa.edu.ar/).
-* [Conferencia Latinoamericana de Informática](https://clei2021.cr/home).
-
-### Leveling-up
-
-#### Learning resources
-
-* [The Odin Project](https://www.theodinproject.com/).
-* [freeCodeCamp](https://www.freecodecamp.org/).
-* [GeeksforGeeks](https://www.geeksforgeeks.org/).
-* [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/). Excelente curso que explora herramientas y técnicas sumamente útiles como debugging, uso de la terminal y Git, como complemento de currículas de carreras de Ciencias de la Computación.
-
-#### Leveling-up your coding skills
-
-* [HackerRank](https://www.hackerrank.com).
-* [LeetCode](https://leetcode.com/).
-* [Codewars](https://www.codewars.com).
-* [CodeChef](https://www.codechef.com/).
-
-#### Job Preparation
-
-* [Tech Interview Handbook](https://www.techinterviewhandbook.org/).
-* [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://arxiv.org/abs/2201.00650).
-* [Ace Your Python Coding Interview](https://realpython.com/learning-paths/python-interview/)
 
 ## Science, PhDs and research
 
