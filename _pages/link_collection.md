@@ -62,12 +62,14 @@ FOSS course on ML with scikit-learn, with its repo [here](https://github.com/INR
 * [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course) and [Tensorflow's Learn ML Paths](https://www.tensorflow.org/resources/learn-ml).
 * [bnomial's daily ML questions](https://today.bnomial.com/).
 * [Analytics Vidhya](https://www.analyticsvidhya.com/).
+* [Prompt engineering guide](https://www.promptingguide.ai/), with its repo [here](https://github.com/dair-ai/Prompt-Engineering-Guide).
 
 ### Learning python
 
 * [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/).
 * [Real Python](realpython.com).
-* [Streamlit](https://streamlit.io/) y [Gradio](https://github.com/gradio-app/gradio/), to quickly make UIs for data apps.
+* [Streamlit](https://streamlit.io/) and [Gradio](https://github.com/gradio-app/gradio/), to quickly make UIs for data apps.
+* [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery/tree/main).
 
 ### Local (Argentina and LatAm) events
 
@@ -137,14 +139,13 @@ FOSS course on ML with scikit-learn, with its repo [here](https://github.com/INR
 * [Lilian Weng's long peek into RL](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html).
 * [Awesome RL envs](https://github.com/clvrai/awesome-rl-envs).
 * [Awesome deep RL](https://github.com/kengz/awesome-deep-rl).
-* [Main RL book, by Sutton y Barto](http://incompleteideas.net/book/RLbook2020.pdf).
+* [Main RL book, by Sutton & Barto](http://incompleteideas.net/book/RLbook2020.pdf).
 
 ## Science, PhDs and research
 
 ### Webpages
 
-* [El Gato y la Caja](https://elgatoylacaja.com/).
-* El Gato y la Caja promotes science for everyone, as well as free, accessible and open knowledge, distributing knowledge in formats such as notes, podcasts or books. One of the great books they have edited is [Pensar con Otros](https://elgatoylacaja.com/pensarconotros/indice), by G. Nogués.
+* [El Gato y la Caja](https://elgatoylacaja.com/) 🇦🇷. *El Gato y la Caja* promotes science for everyone, as well as free, accessible and open knowledge, distributing knowledge in formats such as notes, podcasts or books. One of the great books they have edited is [Pensar con Otros](https://elgatoylacaja.com/pensarconotros/indice), by G. Nogués.
 * [PhD Comics](https://phdcomics.com/). PhD Comics shows comics that narrate the day to day in a PhD, from the point of view of its protagonists. J. Cham, the author of the comics, has this very good talk called [The Power of Procastination](https://www.youtube.com/watch?v=pzrQmpdziTQ) ([slides available in PDF](http://jorgecham.com/phd20/pdf/Procrastination.pdf)).
 
 ### Good readings
