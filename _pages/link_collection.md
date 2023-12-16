@@ -125,6 +125,7 @@ FOSS course on ML with scikit-learn, with its repo [here](https://github.com/INR
 * [The Odin Project](https://www.theodinproject.com/).
 * [freeCodeCamp](https://www.freecodecamp.org/).
 * [GeeksforGeeks](https://www.geeksforgeeks.org/).
+* Refactoring Guru's [Design Patterns](https://refactoring.guru/design-patterns).
 * [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/). Course that explores tools and techniques that are extremely useful such as debugging, use of the terminal and Git, as a complement to curricula of Computer Science careers.
 * [Developer Roadmaps](https://roadmap.sh/).
 * [Learn X in Y minutes](https://learnxinyminutes.com/).
