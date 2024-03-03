@@ -23,12 +23,13 @@ nav_order: 10
   * Volumen 2, [Probabilistic ML: Advanced Topics (2023)](https://probml.github.io/pml-book/book2.html).
 * [Deep Learning (2016)](https://www.deeplearningbook.org/), by I. Goodfellow, Y. Bengio y A. Courville.
 
-### Webs
+### Webs and blogs
 
 * [J. Alammar's blog](https://jalammar.github.io/).
 * [Distilled AI](https://aman.ai/primers/ai/). Excellent resource with summaries of various AI topics.
 * [2023 Kaggle AI Report](https://www.kaggle.com/competitions/2023-kaggle-ai-report).
 * [Stanford's AI Index](https://aiindex.stanford.edu/).
+* [Skynet today](https://skynet.today/).
 
 ### Communities
 
@@ -46,7 +47,7 @@ nav_order: 10
 
 ### General ML learning resources
 
-Here are some repos for learning by coding.
+Here are some links for learning by coding.
 
 * [Made with ML](https://madewithml.com/).
 * [scikit-learn course](https://inria.github.io/scikit-learn-mooc/).
@@ -57,12 +58,21 @@ FOSS course on ML with scikit-learn, with its repo [here](https://github.com/INR
 * [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) and [Machine Learning for Beginners (Repo)](https://github.com/microsoft/ML-For-Beginners), [Web](https://microsoft.github.io/ML-For-Beginners) two excellent courses from Microsoft to learn data science and ML, respectively. Both are available in English and Spanish. The repos include all the material, including the slides, exercises, and solutions.
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) by C. Davidson-Pilon. Good book to learn Bayesian inference from a "computational/understanding-first, and mathematics-second, point of view" (sic), with implementations in [PyMC](https://github.com/pymc-devs/pymc).
 * [A. Karpathy's Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html).
+
+Cool learning resources:
+
 * [Statquest!!! - An epic journey through statistics and machine learning](https://statquest.org/).
 * [Lena Voita's blog](https://lena-voita.github.io/), with great material such as an [NLP course](https://lena-voita.github.io/nlp_course.html).
 * [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course) and [Tensorflow's Learn ML Paths](https://www.tensorflow.org/resources/learn-ml).
 * [bnomial's daily ML questions](https://today.bnomial.com/).
 * [Analytics Vidhya](https://www.analyticsvidhya.com/).
-* [Prompt engineering guide](https://www.promptingguide.ai/), with its repo [here](https://github.com/dair-ai/Prompt-Engineering-Guide).
+* [AI and Data Science Roadmap](https://roadmap.sh/ai-data-scientist).
+* Full Stack Deep Learning's [DL Course](https://fullstackdeeplearning.com/course/).
+* LLM/Prompt engineering:
+  * [Prompt engineering guide](https://www.promptingguide.ai/), with its repo [here](https://github.com/dair-ai/Prompt-Engineering-Guide).
+  * OpenAI's [Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering).
+  * Deep Learning AI's [Gen AI Short Courses](https://www.deeplearning.ai/short-courses/).
+  * Full Stack Deep Learning's [Prompt Engineering](https://fullstackdeeplearning.com/llm-bootcamp/).
 
 ### Learning python
 
